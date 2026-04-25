@@ -1,0 +1,16 @@
+venv/
+backend/venv/
+ml/venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+*.db
+.vscode/
+.idea/
+.DS_Store
+node_modules/
+dist/
+build/
+*.log
